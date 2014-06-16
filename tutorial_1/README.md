@@ -31,7 +31,6 @@ As you can see, ls -a lists files that are normally hidden.
 ![ls_apc](img1/unix-xterm2.gif)
 
 *working with erlerobot:*
-
 ![ls_a](img1/ls-a.jpg)
 
 **1.2 Making Directories**
@@ -55,7 +54,9 @@ The command `cd` directory means change the current working directory to 'direct
 
 To change to the directory you have just made, type
 
-``` cd unixstuff```
+``` 
+cd unixstuff
+```
 
 Type `ls` to see the contents (which should be empty)
 
@@ -112,13 +113,17 @@ Understanding pathnames
 
 First type `cd` to get back to your home-directory, then type
 
-```ls unixstuff````
+```
+ls unixstuff
+````
 
 to list the conents of your unixstuff directory.
 
 Now type
 
-```` ls backups```
+```
+ls backups
+```
 
 You will get a message like this -
 
@@ -126,7 +131,9 @@ backups: No such file or directory
 
 The reason is, backups is not in your current working directory. To use a command on a file (or directory) not in the current working directory (the directory you are currently in), you must either `cd` to the correct directory, or specify its full pathname. To list the contents of your backups directory, you must type
 
-``` ls unixstuff/backups```
+``` 
+ls unixstuff/backups
+```
 
 
 
@@ -134,7 +141,9 @@ The reason is, backups is not in your current working directory. To use a comman
 
 Home directories can also be referred to by the tilde `~ `character. It can be used to specify paths starting at your home directory. So typing
 
-```` ls ~/unixstuff```
+```
+ls ~/unixstuff
+```
 
 will list the contents of your unixstuff directory, no matter where you currently are in the file system.
 

@@ -16,6 +16,7 @@ The `ls` command ( lowercase L and lowercase S ) lists the contents of your curr
 ![ls_compc](img1/unix-xterm1.gif)
 
 *working with erlerobot:*
+
 ![ls_com](img1/ls_command.jpg)
 
 There may be no files visible in your home directory, in which case, the UNIX prompt will be returned. Alternatively, there may already be some files inserted by the System Administrator when your account was created.
@@ -31,6 +32,7 @@ As you can see, ls -a lists files that are normally hidden.
 ![ls_apc](img1/unix-xterm2.gif)
 
 *working with erlerobot:*
+
 ![ls_a](img1/ls-a.jpg)
 
 **1.2 Making Directories**
@@ -151,7 +153,7 @@ What do you think
 
 `ls ~`
 
-would list? * List the files in your home directory*
+would list?  *List the files in your home directory*
 
 **Summary**
 

@@ -31,6 +31,7 @@ As you can see, ls -a lists files that are normally hidden.
 ![ls_apc](img1/unix-xterm2.gif)
 
 *working with erlerobot:*
+
 ![ls_a](img1/ls-a.jpg)
 
 **1.2 Making Directories**
@@ -146,7 +147,7 @@ What do you think
 
 would list? * List the files in your home directory*
 
-** Summary**
+**Summary**
 
 | **Command** | **Meaning** |
 |---------------|------------------|

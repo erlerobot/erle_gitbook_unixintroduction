@@ -1,7 +1,7 @@
 # Introduction to the UNIX Operating System
 ---
 
-- ** What is Unix? **
+- **What is Unix?**
 
 UNIX is an operating system which was first developed in the 1960s, and has been under constant development ever since. By operating system, we mean the suite of programs which make the computer work. It is a stable, multi-user, multi-tasking system for servers, desktops and laptops.
 
@@ -12,7 +12,7 @@ UNIX systems also have a graphical user interface (GUI) similar to Microsoft Win
 There are many different versions of UNIX, although they share common similarities. The most popular varieties of UNIX are Sun Solaris, GNU/Linux, and MacOS X.
 
 
-- **The UNIX operating system **
+- **The UNIX operating system**
 
 The UNIX operating system is made up of three parts; the kernel, the shell and the programs.
 
@@ -48,3 +48,19 @@ a document (report, essay etc.)
 the text of a program written in some high-level programming language
 instructions comprehensible directly to the machine and incomprehensible to a casual user, for example, a collection of binary digits (an executable or binary file);
 a directory, containing information about its contents, which may be a mixture of other directories (subdirectories) and ordinary files.
+
+- **The Directory Structure**
+
+All the files are grouped together in the directory structure. The file-system is arranged in a hierarchical structure, like an inverted tree. The top of the hierarchy is traditionally called root (written as a slash / )
+![structure](img.unix-tree.png)
+
+In the diagram above, we see that the home directory of user "ee51vn" contains two sub-directories (docs and pics) and a file called report.doc.
+
+The full path to the file report.doc is "/home/its/ug1/ee51vn/report.doc"
+
+- **Starting an UNIX terminal**
+
+To open an UNIX terminal window, click on the "Terminal" icon from Applications/Accessories menus.
+![terminal](img/gnome-window.gif)
+An UNIX Terminal window will then appear with a % prompt, waiting for you to start entering commands.
+![shell](img/unix-xterm0.gif)

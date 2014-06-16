@@ -37,7 +37,7 @@ As you can see, ls -a lists files that are normally hidden.
 
 **1.2 Making Directories**
 
-`mkdir `(make directory) 
+`mkdir `(make directory)
 
 We will now make a subdirectory in your home directory to hold the files you will be creating and using in the course of this tutorial. To make a subdirectory called unixstuff in your current working directory type
 
@@ -56,13 +56,13 @@ The command `cd` directory means change the current working directory to 'direct
 
 To change to the directory you have just made, type
 
-``` 
+```
 cd unixstuff
 ```
 
 Type `ls` to see the contents (which should be empty)
 
-As an **exercise** you can try to make another directory inside the unixstuff directory called backups y called backups.
+As an **exercise** you can try to make another directory inside the unixstuff directory called backups.
 
 **1.4 The directories . and ..**
 
@@ -133,7 +133,7 @@ backups: No such file or directory
 
 The reason is, backups is not in your current working directory. To use a command on a file (or directory) not in the current working directory (the directory you are currently in), you must either `cd` to the correct directory, or specify its full pathname. To list the contents of your backups directory, you must type
 
-``` 
+```
 ls unixstuff/backups
 ```
 

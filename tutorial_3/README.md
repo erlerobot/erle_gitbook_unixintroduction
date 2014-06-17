@@ -162,33 +162,9 @@ To find out how many users are logged on, type
 ```
  who | wc -l
  ```
+As *exercise* using pipes, display all lines of list1 and list2 containing the letter 'p', and sort the result. (Remenber: `grep` command search for keyword-keyletter)
+*Result:  cat list1 list2 | grep p | sort*
 
- ---
-
----
-
-Using pipes, display all lines of list1 and list2 containing the letter 'p', and sort the result. (Remenber: `grep` command search for keyword-keyletter)
-
-```js
-var result =
-```
-
-```js
-var result =  cat list1 list2 | grep p | sort;
-```
-
-```js
-assert( cat list1 list2 | grep p | sort);
-```
-
-```js
-// This is context code available everywhere
-// The user will be able to call magicFunc in his code
-function magicFunc() {
-    return 3;
-}
-```
----
 
 
 ####Summary

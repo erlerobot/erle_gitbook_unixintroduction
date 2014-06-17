@@ -107,6 +107,7 @@ Some processes take a long time to run and hold up the terminal. Backgrounding a
 
 
 *working with erlerobot:*
+
 ![process](img5/11_Fotor.jpg)
 
 

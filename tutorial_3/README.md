@@ -175,7 +175,7 @@ At this point you are ready to do something more practical with your erlerobot. 
 
 | **Command** | **Meaning** |
 |---------------|------------------|
-| command > file |	redirect standard output to a file
+| command > file |	redirect standard output to a file|
 |command >> file|	append standard output to a file|
 |command < file	|redirect standard input from a file|
 |command1 *pipe* command2|	pipe the output of command1 to the input of command2|

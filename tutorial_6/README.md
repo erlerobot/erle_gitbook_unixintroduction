@@ -21,6 +21,11 @@ du -s *
 
 The -s flag will display only a summary (total size) and the * means all files and directories.
 
+*working with erlerobot:*
+
+![img1](img6/1_Fotor.jpg)
+
+
 #####gzip
 
 This reduces the size of a file, thus freeing valuable disk space. For example, type
@@ -91,7 +96,11 @@ To find files over 1Mb in size, and display the result as a long listing, type
 
 ```
 find . -size +1M -ls
-````
+```
+
+*working with erlerobot:*
+
+![img2](img6/2_Fotor.jpg)
 
 
 #####history
@@ -107,11 +116,11 @@ If you are using the C shell, you can use the exclamation character (!) to recal
 ```
 !! (recall last command)
 
- !-3 (recall third most recent command)
+!-3 (recall third most recent command)
 
- !5 (recall 5th command in list)
+!5 (recall 5th command in list)
 
- !grep (recall last command starting with grep)
+!grep (recall last command starting with grep)
  ```
 
 
@@ -124,12 +133,21 @@ By using the *navigation keys* on your keyboard (up, down) you can recall the pr
 
 You can also use the recursive search. If you type ^R ([control +R]) and afterward the letter c, the shell shows you the previus commands beginning with c.
 
+##### Shutdown
+
+If you want to turn off a Linux machine, type:
+```
+shutdown -h now
+```
+
+
 ####Summary
 |**Command**|	**Meaning**|
 |-----------|--------------|
 |df |	space left on the system|
 |du |kilobytes used by a directory|
 |gzip|	reduces the size|
+|gunzip|expands a file|
 |zcat	|read gzipped files|
 |file	|classifies the file according to its type|
 |diff |compares the content of two files|

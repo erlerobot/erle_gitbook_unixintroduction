@@ -4,4 +4,5 @@
 * [Tutorial 1](tutorial_1/README.md)
 * [Tutorial 2](tutorial_2/README.md)
 * [Tutorial 3](tutorial_3/README.md)
+* [Tutorial 4](tutorial_4/README.md)
 

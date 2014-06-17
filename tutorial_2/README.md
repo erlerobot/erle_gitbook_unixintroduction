@@ -20,7 +20,7 @@ movement. They had a much tougher audience in mind. Would it astonish a child?
 Please ensure you create and save this file in a known place.
 
 
-**2.1 Copying Files**
+####2.1 Copying Files
 
 `cp` *file1 file2* is the command which makes a copy of *file1* in the current working directory and calls it *file2*
 
@@ -39,7 +39,7 @@ The above command means copy the indicated file to the current directory, keepin
 
 
 
-**2.2 Moving files**
+####2.2 Moving files
 
 `mv` (move)
 
@@ -79,7 +79,7 @@ As  **exercise** you can create a directory called tempstuff using `mkdir` , the
 
 Create a directory called tempstuff using mkdir , then remove it using the rmdir command.
 
-**2.4 Displaying the contents of a file on the screen**
+####2.4 Displaying the contents of a file on the screen*
 
 #####clear (clear screen)
 
@@ -152,7 +152,7 @@ Clear the screen and type
 
 
 
-**2.5 Searching the contents of a file**
+####2.5 Searching the contents of a file
 
 Simple searching using `less`
 
@@ -227,7 +227,7 @@ To find out how many lines the file has, type
  wc -l science.txt
  ```
 
- **Summary**
+ ####Summary
 
 | **Command** | **Meaning** |
 |---------------|------------------|

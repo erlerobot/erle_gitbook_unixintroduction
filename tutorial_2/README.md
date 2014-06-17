@@ -19,6 +19,23 @@ movement. They had a much tougher audience in mind. Would it astonish a child?
 
 Please ensure you create and save this file in a known place.
 
+####2.0 Creating the file (required for next steps)
+
+If you want to create a file you should use the command `touch`. First go to the directory where you are working using`cd`. Then create the file by typing:
+```
+touch science.txt
+```
+Now that the file is created you can write on it by using the command `echo`. First let's see what does this command.Type:
+```
+echo 'Hello'
+```
+You can read on your shell screen the text you have written between the '', *Hello* in this case.
+
+If you type
+```
+echo 'Hello' > science.txt
+```
+You will have written the text onto the file.
 
 ####2.1 Copying Files
 

@@ -19,7 +19,7 @@ movement. They had a much tougher audience in mind. Would it astonish a child?
 
 Please ensure you create and save this file in a known place.
 
-####2.0 Creating the file (required for next steps)
+####2.1 Creating the file (required for next steps)
 
 If you want to create a file you should use the command `touch`. First go to the directory where you are working using`cd`. Then create the file by typing:
 ```
@@ -42,7 +42,7 @@ Note: the > is a redirection character, we will matter about the this characters
 
 ![img_1](img2/erle_1.jpg)
 
-####2.1 Copying Files
+####2.2 Copying Files
 
 `cp` *file1 file2* is the command which makes a copy of *file1* in the current working directory and calls it *file2*
 
@@ -61,7 +61,7 @@ The above command means copy the indicated file to the current directory, keepin
 
 
 
-####2.2 Moving files
+####2.3 Moving files
 
 `mv` (move)
 
@@ -81,7 +81,7 @@ First, change directories to your unixstuff directory. Then, inside the unixstuf
 Type `ls `and` ls backups` to see if it has worked.
 
 
-**2.3 Removing files and directories**
+####2.4 Removing files and directories
 
 `rm` (remove), `rmdir` (remove directory)
 
@@ -101,7 +101,7 @@ As  **exercise** you can create a directory called tempstuff using `mkdir` , the
 
 Create a directory called tempstuff using mkdir , then remove it using the rmdir command.
 
-####2.4 Displaying the contents of a file on the screen*
+####2.5 Displaying the contents of a file on the screen*
 
 #####clear (clear screen)
 
@@ -174,7 +174,7 @@ Clear the screen and type
 
 
 
-####2.5 Searching the contents of a file
+####2.6 Searching the contents of a file
 
 Simple searching using `less`
 

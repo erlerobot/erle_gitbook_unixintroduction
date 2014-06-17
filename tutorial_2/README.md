@@ -36,6 +36,11 @@ If you type
 echo 'Hello' > science.txt
 ```
 You will have written the text onto the file.
+Note: the > is a redirection character, we will matter about the this characters in the *tutorial 3*.
+
+*working with erlerobot:*
+
+![img_1](img2/erle_1.jpg)
 
 ####2.1 Copying Files
 
@@ -240,14 +245,26 @@ A handy little utility is the `wc `command, short for word count. To do a word c
 
 To find out how many lines the file has, type
 
-````
+```
  wc -l science.txt
  ```
+
+To finish, let's see some example of the commands.
+
+ *working with erlerobot:*
+
+ ![img_2](img2/erel _2.jpg)
+
+
+
+
 
  ####Summary
 
 | **Command** | **Meaning** |
 |---------------|------------------|
+| touch file| creates a file|
+| echo ' test' | creates a text |
 | cd *file1 file2*| copy file1 and call it file2|
 | mv *file1 file2*| move or rename file1 to file2|
 | rm file | remove a file|

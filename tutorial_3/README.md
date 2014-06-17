@@ -165,6 +165,7 @@ To find out how many users are logged on, type
 As *exercise* using pipes, display all lines of list1 and list2 containing the letter 'p', and sort the result. (Remenber: `grep` command search for keyword-keyletter)
 *Result:  cat list1 list2 | grep p | sort*
 
+At this point you are ready to do something more practical with your erlerobot.In this [tutorial](http://erlerobot.github.io/erle_gitbook/en/Blink.html) explains how to blink a Led.It is a very good way of practicing some of the things you have learned untill the moment.
 
 
 ####Summary

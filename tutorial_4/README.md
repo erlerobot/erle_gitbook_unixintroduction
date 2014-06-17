@@ -72,7 +72,7 @@ gives a one-line description of the command, but omits any information about opt
 For some commands you can simply type
 ```
 help cd
-````
+```
 this command display helpful information about builtin commands.
 
 ##### Apropos

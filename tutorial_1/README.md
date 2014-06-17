@@ -13,7 +13,6 @@ To find out what is in your home directory, type
 
 The `ls` command ( lowercase L and lowercase S ) lists the contents of your current working directory.
 
-![ls_compc](img1/unix-xterm1.gif)
 
 *working with erlerobot:*
 
@@ -29,7 +28,7 @@ To list all files in your home directory including those whose names begin with 
 
 As you can see, ls -a lists files that are normally hidden.
 
-![ls_apc](img1/unix-xterm2.gif)
+
 
 *working with erlerobot:*
 

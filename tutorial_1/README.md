@@ -1,7 +1,7 @@
 # Tutorial 1
 ---
 
-**1.1 Listing files and directories**
+####1.1 Listing files and directories
 
 `ls` (list)
 
@@ -35,7 +35,7 @@ As you can see, ls -a lists files that are normally hidden.
 
 ![ls_a](img1/ls-a.jpg)
 
-**1.2 Making Directories**
+####1.2 Making Directories
 
 `mkdir `(make directory)
 
@@ -48,7 +48,7 @@ To see the directory you have just created, type
 `ls`
 
 
-**1.3 Change to a different directory**
+####1.3 Change to a different directory
 
 `cd `(change directory)
 
@@ -64,7 +64,7 @@ Type `ls` to see the contents (which should be empty)
 
 As an **exercise** you can try to make another directory inside the unixstuff directory called backups.
 
-**1.4 The directories . and ..**
+####1.4 The directories . and ..
 
 Still in the unixstuff directory, type
 
@@ -93,7 +93,7 @@ will take you one directory up the hierarchy (back to your home directory). Try 
 
 Note: typing cd with no argument always returns you to your home directory. This is very useful if you are lost in the file system.
 
-**1.5 Pathnames**
+####1.5 Pathnames
 
 `pwd `(print working directory)
 
@@ -109,7 +109,7 @@ which means that ee51vn (your home directory) is in the sub-directory ug1 (the g
 
 ![tree](img1/unix-tree.png)
 
-**1.6 More about home directories and pathnames**
+####1.6 More about home directories and pathnames
 
 Understanding pathnames
 
@@ -155,7 +155,7 @@ What do you think
 
 would list?  *List the files in your home directory*
 
-**Summary**
+####Summary
 
 | **Command** | **Meaning** |
 |---------------|------------------|

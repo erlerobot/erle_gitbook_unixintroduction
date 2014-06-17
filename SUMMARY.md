@@ -6,5 +6,5 @@
 * [Tutorial 3](tutorial_3/README.md)
 * [Tutorial 4](tutorial_4/README.md)
 * [Tutorial 5](tutorial_5/README.md)
-* [Tutorial 6](tutorial_6/README)
+* [Tutorial 6](tutorial_6/README.md)
 

@@ -89,3 +89,11 @@ will give you the commands with keyword in their manual page header. For example
 apropos copy
 ```
 
+
+| **Command** | **Meaning** |
+|---------------|------------------|
+|*	|match any number of characters|
+|?|	match one character|
+|man command|	read the online manual page for a command|
+|whatis command|	brief description of a command|
+|apropos keyword|	match commands with keyword in their man pages|

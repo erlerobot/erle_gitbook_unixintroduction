@@ -9,9 +9,14 @@ When you first login, your current working directory is your home directory. You
 
 To find out what is in your home directory, type
 
-`ls`
+```
+ls
+```
 
 The `ls` command ( lowercase L and lowercase S ) lists the contents of your current working directory.
+
+![screen1](img1/unix-xterm1.gif)
+
 
 
 *working with erlerobot:*
@@ -24,9 +29,14 @@ There may be no files visible in your home directory, in which case, the UNIX pr
 
 To list all files in your home directory including those whose names begin with a dot, type
 
-` ls -a`
+```
+ls -a
+```
+
 
 As you can see, ls -a lists files that are normally hidden.
+
+![Screen2](img1/unix-xterm2.gif)
 
 
 
@@ -40,11 +50,16 @@ As you can see, ls -a lists files that are normally hidden.
 
 We will now make a subdirectory in your home directory to hold the files you will be creating and using in the course of this tutorial. To make a subdirectory called unixstuff in your current working directory type
 
-` mkdir unixstuff`
+```
+ mkdir unixstuff
+ ```
+
 
 To see the directory you have just created, type
 
-`ls`
+```
+ls
+```
 
 
 ####1.3 Change to a different directory
@@ -67,7 +82,9 @@ As an **exercise** you can try to make another directory inside the unixstuff di
 
 Still in the unixstuff directory, type
 
-` ls -a`
+```
+ls -a
+```
 
 As you can see, in the unixstuff directory (and in all other directories), there are two special directories called (.) and (..)
 
@@ -75,7 +92,9 @@ As you can see, in the unixstuff directory (and in all other directories), there
 
 In UNIX, (.) means the current directory, so typing
 
-` cd .`
+```
+cd .
+```
 means stay where you are (the unixstuff directory).
 
 *Notice that there is a space between cd and the dot.*
@@ -86,7 +105,9 @@ This may not seem very useful at first, but using (.) as the name of the current
 
 (..) means the parent of the current directory, so typing
 
-` cd ..`
+```
+cd ..
+```
 
 will take you one directory up the hierarchy (back to your home directory). Try it now.
 
@@ -98,11 +119,15 @@ Note: typing cd with no argument always returns you to your home directory. This
 
 Pathnames enable you to work out where you are in relation to the whole file-system. For example, to find out the absolute pathname of your home-directory, type cd to get back to your home-directory and then type
 
-`pwd`
+```
+pwd
+```
 
 The full pathname will look something like this:
+```
 
 /home/its/ug1/ee51vn
+```
 
 which means that ee51vn (your home directory) is in the sub-directory ug1 (the group directory),which in turn is located in the its sub-directory, which is in the home sub-directory, which is in the top-level root directory called " / " .
 
@@ -116,7 +141,7 @@ First type `cd` to get back to your home-directory, then type
 
 ```
 ls unixstuff
-````
+```
 
 to list the conents of your unixstuff directory.
 

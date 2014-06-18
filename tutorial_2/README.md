@@ -19,7 +19,7 @@ movement. They had a much tougher audience in mind. Would it astonish a child?
 
 Please ensure you create and save this file in a known place.
 
-####2.1 Creating the file (required for next steps)
+####2.1 Creating files (required for next steps)
 
 If you want to create a file you should use the command `touch`. First go to the directory where you are working using`cd`. Then create the file by typing:
 ```

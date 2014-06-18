@@ -8,7 +8,7 @@ All this with examples of the command line when working with drone **Erle**.
 
 ##About
 
-This book is an adaptation of another [tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+This book is an adaptation of another [tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/).
 
 ##License
 

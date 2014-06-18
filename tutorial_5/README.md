@@ -88,7 +88,11 @@ To give read and write permissions on the file biglist to all,
 ```
  chmod a+rw biglist
  ```
+In case you have a shell script and you want to make it an executable file,the command you should use is (remmember to cd first):
 
+```
+chmod +x script
+```
 As **exercise** try changing access permissions on the file science.txt and on the directory backups (Use ls -l to check that the permissions have changed).
 
 

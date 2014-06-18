@@ -2,10 +2,12 @@
 ---
 ####Introduction to the UNIX Operating System
 
-- What is UNIX?
-- Files and processes
-- The Directory Structure
-- Starting an UNIX terminal
+- 0.1 What is UNIX?
+- 0.2 Types of Unix
+- 0.3 The UNIX operating system
+- 0.4 Files and processes
+- 0.5 The Directory Structure
+- 0.6 Starting an UNIX terminal
 
 ####Tutorial One
 

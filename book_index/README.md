@@ -1,6 +1,6 @@
 # Book index
 ---
-####Introduction to the UNIX Operating System
+####[Introduction to the UNIX Operating System](introduction_to_the_unix_operating_system)
 
 - 0.1 What is UNIX?
 - 0.2 Types of Unix
@@ -9,7 +9,7 @@
 - 0.5 The Directory Structure
 - 0.6 Starting an UNIX terminal
 
-####[Tutorial One ](tutorial_1.md)
+####[Tutorial One ](tutorial_1)
 
 
 - 1.1 Listing files and directories
@@ -19,7 +19,7 @@
 - 1.5 Pathnames
 - 21.6 More about home directories and pathnames
 
-####Tutorial Two
+####[Tutorial Two](tutorial_2)
 
 - 2.1 Creating files
 - 2.2 Copying Files

@@ -27,4 +27,12 @@ Our small-size Linux computer is bringing robotics to the people and businesses.
 
 ##License
 
+Unless specified, this content is licensed under the Creative Commons Attribution-NonComercial-Share Alike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/2.0/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+![license](erleimg/88x31.png)
+
+
+All derivative works are to be attributed to *Silvia Núñez Rivero* of **Erle Robotics S.L.**.
+
+For any questions, concerns, or issues submit them to support [at] erlerobot.com.
 

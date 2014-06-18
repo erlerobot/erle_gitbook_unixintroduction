@@ -9,4 +9,5 @@
 * [Tutorial 6](tutorial_6/README.md)
 * [Turorial 7](turorial_7/README.md)
 * [Tutorial 8](tutorial_8/README.md)
+* [Annex I: basic commands](annex_i_basic_commands/README.md)
 

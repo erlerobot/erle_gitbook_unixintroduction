@@ -3,6 +3,7 @@
 
 Sometimes, when you are working with *Erle* is confortable having more than one terminal.
 In this annex, you are going to learn how to **connect Erle and your computer** and how to launch as many erle terminals as you wish.
+Warning: Before working on what is explaned in the next paragraph you should familiarize a bit with Unix. We recommend you to read and practice till tutorial 6.
 
 ####II.1 Connecting with Erle
 
@@ -73,6 +74,11 @@ Once you have your computer and erle connected, for transferring a file from you
 ```
 scp file root@11.0.0.1:~/
 ```
+Remember:
+- `~`menas your home directory.
+- `cd ~`you go to your home directory.
+- `echo $HOME`showns the path of your home directory.
+
 Note: `scp` is similar to `cp`, is something like *a copy through the network *
 Let's see an example:
 

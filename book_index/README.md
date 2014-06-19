@@ -75,3 +75,7 @@
 
 ####[Annex II:A new Erle terminal](annex_ii_a_new_erle_terminal/README.md)
 
+- II.1 Connecting with Erle
+- II.2 A new Erle-terminal
+- II.3 Transferring files from your computer to Erle
+

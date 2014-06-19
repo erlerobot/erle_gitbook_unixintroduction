@@ -1,10 +1,10 @@
-# Annex II: A new Erle terminal
+# Annex II : A new Erle terminal
 ---
 
 Sometimes, when you are working with *Erle* is confortable having more than one terminal.
 In this annex, you are going to learn how to **connect Erle and your computer** and how to launch as many erle terminals as you wish.
 
-####Connecting with Erle
+####II.1 Connecting with Erle
 
 Connet Erle to your computer, using the USB wire.
 
@@ -55,7 +55,7 @@ The result should be something like this:
 
 ![ping](imgannex2/ping.jpg)
 
-#### A new Erle-terminal
+#### II.2 A new Erle-terminal
 
 After doing the process above, you can launch as many shells as you want in a simply way. We are going to use ssh command in the computer terminal, which lests you logging into a remote machine and executing commands on that machine.
 The syntaxis is easy:
@@ -67,7 +67,7 @@ In our case:
 ```
 ssh root@11.0.0.1
 ```
-####Transferring files from your computer to Erle
+####II.3 Transferring files from your computer to Erle
 
 Once you have your computer and erle connected, for transferring a file from your pc to erle's home, type:
 ```

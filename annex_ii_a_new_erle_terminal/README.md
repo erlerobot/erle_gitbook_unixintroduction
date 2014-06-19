@@ -66,7 +66,7 @@ ssh root@11.0.0.1
 
 Once you have your computer and erle connected, for transferring a file from your pc to erle's home, type:
 ```
-scp file root@11.0.0.1~/
+scp file root@11.0.0.1:~/
 ```
 Note: `scp` is similar to `cp`, is something like *a copy through the network *
 Let's see an example:

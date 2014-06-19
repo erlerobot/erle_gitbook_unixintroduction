@@ -70,3 +70,5 @@
 - 8.2 Environment variables
 - 8.3 Shell variables
 - 8.4 Using and setting variables
+
+#### [Annex I: basic commands](annex_i_basic_commands/README.md)

@@ -37,7 +37,7 @@ There you can read in the usb0 section the *erle conection id*:
 ```
 inet addr:11.0.0.1
 ```
-At this point we are going to make en4 work in the same id that erle does. We are going to connet them.
+At this point we are going to make en4 work in the same id that erle does. We are going to make them work in the same sub-network.
 Type in your computer terminal:
 ```
 sudo ifconfig en4 11.0.0.2
@@ -56,11 +56,17 @@ After doing the process above, you can launch as many shells as you want in a si
 The syntaxis is easy:
 
 ```
-ssh usuario@  id
+ssh usuario@id
 ```
 In our case:
 ```
-ssh root@ 11.0.0.1
+ssh root@11.0.0.1
 ```
+####Transferring files from your computer to Erle
 
-
+Once you have your computer and erle connected, for transferring a file from your pc to erle's home, type:
+```
+scp file root@11.0.0.1~/
+```
+Note: `scp` is similar to `cp`, is something like *a copy through the network *
+Let's see an example:

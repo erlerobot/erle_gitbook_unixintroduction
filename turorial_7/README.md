@@ -14,6 +14,7 @@ There are a number of steps needed to install the software.
 - Set paths to the installation directory
 - Of the above steps, probably the most difficult is the compilation stage.
 
+
 #####Compiling Source Code
 
 All high-level language code must be converted into a form the computer understands. For example, C language source code is converted into a lower-level language called assembly language. The assembly language code made by the previous stage is then converted into object code which are fragments of code which the computer understands directly. The final stage in compiling a program involves linking the object code to code libraries which contain certain built-in functions. This final stage produces an executable program.
@@ -61,15 +62,29 @@ First create a download directory
  ```
  [Download the software here](https://github.com/silvianunez/erle_gitbook_unixintroduction/blob/master/turorial_7/prog/units-1.74.tar.gz) and save it to your new download directory.
 
- ####7.3 Extracting the source code
-
-Go into your download directory and list the contents.
+Now move it to *Erle*.You need to follow the process specified in annex: [A new Erle terminal](erle_gitbook_unixintroduction/annex_ii_a_new_erle_terminal/READMe.md)
 
 ```
 cd download
+scp units-1.74.tar.gz root@11.0.0.1:~/
+```
+If you now  go to erle and list the content of your Home directory, you will have the file *units-1.74.tar.gz* there:
+```
+root@erlerobot:~# ls
+otro  units-1.74.tar.gz
+
+```
+ ####7.3 Extracting the source code
+
+Now, in your home-erle-directory, where you have saved the file, type:
+
+```
 ls -l
  ```
 
+*working with erlerobot:*
+
+![inerle](img7/inerle.jpg)
 
 As you can see, the filename ends in tar.gz. The tar command turns several files and directories into one single tar file. This is then compressed using the gzip command (to create a tar.gz file).
 
@@ -109,6 +124,9 @@ Then run the configure utility setting the installation path to this.
 ./configure --prefix=$HOME/units174
 ```
 
+ *working with erlerobot*
+
+ ![config](img7/confi.jpg)
 
 NOTE: The $HOME variable is an example of an environment variable. The value of $HOME is the path to your home directory. Just type
 

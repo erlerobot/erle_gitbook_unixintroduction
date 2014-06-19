@@ -72,3 +72,6 @@
 - 8.4 Using and setting variables
 
 #### [Annex I: basic commands](annex_i_basic_commands/README.md)
+
+####[Annex II:A new Erle terminal](annex_ii_a_new_erle_terminal/README.md)
+

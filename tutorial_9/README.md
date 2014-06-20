@@ -29,6 +29,7 @@ Below are some tables containing the more usual *vim* commands. If you have more
 |vi | edit a new file |
 |vi file| edit a existing file|
 |vi -r file| Edit recovering the changes not saved|
+|vi file1 file2 ...|edit various files successively|
 
 #####Command mode
 
@@ -70,6 +71,8 @@ You get to ex mode from the command mode by typing *:*.
 |:wq| leave saving changes|
 |:set nu | number the lines|
 |:set showmode|show the mode|
+|:e file| edit simultaneously another file|
+|:e #|Come back to the previous file|
 
 
 
@@ -77,7 +80,7 @@ You get to ex mode from the command mode by typing *:*.
 
 We are going to familiarize with the *vim* text editor by doing some practical examples.For now on, we are *working with erlerobot*.
 
-First, go to erle home and create a directory, where we are going to save the files.
+First, go to erle home and create a directory, called *linuxpractice*, where we are going to save the files.
 Create and open with *vim* a .txt file, using `vi`.
 
 ![vim1](img9/1vim.jpg)
@@ -172,4 +175,28 @@ You can overwrite the file and save the changes forcing:
 (press escape)
 :w!
 ```
+
+**Exercise:**
+
+Create a file in *linuxpractice* directory and call it erle_description.txt
+Write a short description of erlerobot (3 lines).
+After that leave two blank lines and write your name.
+Save the changes and leave.
+
+If you do `cat`the result should be something like this:
+
+![exp1](img9/vimex.jpg)
+
+Now try to delete the line 4 and to write your name in the first line.
+The final result is the following one:
+
+![erlefinal](img9/erleex.jpg)
+
+
+
+
+
+
+
+
 

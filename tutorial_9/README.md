@@ -20,6 +20,8 @@ vi
 
 ####9.2 Essential commands
 
+Below are some tables containing the more usual *vim* commands. If you have more interest in *vim* commands or you are looking for other different commands, [here ](http://www.cs.rit.edu/~cslab/vi.html) you can find a more complete documentation.
+
 #####Command line
 
 | **Command** | **Meaning** |
@@ -50,12 +52,26 @@ You get to command mode from the *entry mode* ("writing mode") by typing *Esc*.
 |p|copy a buffer line, after the actual one|
 |^G| show the name of the file, the number of lines, and the actual line|
 |.|repeat last command
-|:*num*| position the cursor in the line *num* |
 |ZZ| end saving the changes|
 
 ####Ex mode
 
 You get to ex mode from the command mode by typing *:*.
+
+| **Command** | **Meaning** |
+|---------------|---------------|
+|:*num*| position the cursor in the line *num* |
+|:w | save|
+|:w! | save forcing|
+|:x| leave saving if necessary |
+|:q|leave if there is no modification|
+|:q!|leave without saving|
+|:wq| leave saving changes|
+|:set nu | number the lines|
+|:set showmode|show the mode|
+
+
+
 
 
 

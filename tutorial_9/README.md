@@ -17,5 +17,47 @@ vi
 ![Vim](img9/Vim.jpg)
 
 
+
 ####9.2 Essential commands
+
+#####Command line
+
+| **Command** | **Meaning** |
+|---------------|---------------|
+|vi | edit a new file |
+|vi file| edit a existing file|
+
+#####Command mode
+
+You get to command mode from the *entry mode* ("writing mode") by typing *Esc*.
+
+| **Command** | **Meaning** |
+|---------------|---------------|
+|h | previous character|
+|j or *enter* | next line|
+|k|previous line|
+|l or *space* | next character|
+|L| last line|
+|H| first line|
+|M| central line|
+|i | text entry - inserting|
+|R| text entry - replacing |
+|u| undu last modification|
+|^R| undu the las *u* command|
+|/ |Search a characters string|
+|dd| remove a line|
+|yy| save lines in the buffer|
+|p|copy a buffer line, after the actual one|
+|^G| show the name of the file, the number of lines, and the actual line|
+|.|repeat last command
+|:*num*| position the cursor in the line *num* |
+|ZZ| end saving the changes|
+
+####Ex mode
+
+You get to ex mode from the command mode by typing *:*.
+
+
+
+
 

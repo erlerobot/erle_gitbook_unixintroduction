@@ -24,7 +24,7 @@ As an illustration of the way that the shell and the kernel work together, suppo
 
 #####The shell
 
-The shell acts as an interface between the user and the kernel. When a user logs in, the login program checks the username and password, and then starts another program called the shell. The shell is a command line interpreter (CLI). It interprets the commands the user types in and arranges for them to be carried out. The commands are themselves programs: when they terminate, the shell gives the user another prompt (% on our systems).
+The shell acts as an interface between the user and the kernel. When a user logs in, the login program checks the username and password, and then starts another program called the shell. The shell is a command line interpreter (CLI). It interprets the commands the user types in and arranges for them to be carried out. The commands are themselves programs: when they terminate, the shell gives the user another prompt.
 
 The adept user can customise his/her own shell, and users can use different shells on the same machine. For example we can use *tcsh shell* by default.
 
@@ -32,7 +32,12 @@ The tcsh shell has certain features to help the user inputting commands.
 
 Filename Completion - By typing part of the name of a command, filename or directory and pressing the [Tab] key, the tcsh shell will complete the rest of the name automatically. If the shell finds more than one name beginning with those letters you have typed, it will beep, prompting you to type a few more letters before pressing the tab key again.
 
-History - The shell keeps a list of the commands you have typed in. If you need to repeat a command, use the cursor keys to scroll up and down the list or type history for a list of previous commands.
+History - The shell keeps a list of the commands you have typed in. If you need to repeat a command, use the cursor keys to scroll up and down the list or type history for a list of previous commands
+
+Another good choice is the *bash*.
+
+A Shell is not just a shell. A Shell is chiefly an
+interpreter of a powerful language
 
 ####0.4 Files and processes
 

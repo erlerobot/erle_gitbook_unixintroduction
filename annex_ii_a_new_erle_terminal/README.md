@@ -28,7 +28,7 @@ You get this in the screen:
 ![en4](imgannex2/en4.jpg)
 
 
-Usually en0 and en1 correspond to internet connection, bridge are usually matter of a virtual machine... We now care about *en4*, which is related to erle (you can check that  the status is active when erle is connected).
+Usually *en0* and *en1* correspond to internet connection, *bridge* is usually matter of a virtual machine... We now care about *en4*, which is related to erle (you can check that  the status is active when erle is connected and that *en4* disappear when you disconect erle).
 
 Now open a erle-terminal and type:
 ```
@@ -38,11 +38,11 @@ You get this:
 
 ![usb0](imgannex2/usb.jpg)
 
-There you can read in the usb0 section the *erle conection id*:
+There you can read in the *usb0* section the *erle conection id*:
 ```
 inet addr:11.0.0.1
 ```
-At this point we are going to make en4 work in the same sub-network that erle does, by changing the en4 id.
+At this point we are going to make *en4* work in the same sub-network that erle does, by changing the *en4* id.
 Type in your computer-terminal:
 ```
 sudo ifconfig en4 11.0.0.2
@@ -58,7 +58,7 @@ The result should be something like this:
 
 #### II.2 A new Erle-terminal
 
-After doing the process above, you can launch as many shells as you want in a simply way. We are going to use `ssh` command in the computer-terminal, which lests you logging into a remote machine and executing commands on that machine.
+After doing the process above, you can launch as many shells as you want in a simply way. We are going to use `ssh` command in the computer-terminal, which allows you logging into a remote machine and executing commands on that machine.
 The syntaxis is easy:
 
 ```
@@ -79,7 +79,7 @@ Remember:
 - `cd ~`you go to your home directory.
 - `echo $HOME`showns the path of your home directory.
 
-Note: `scp` is similar to `cp`, is something like *a copy through the network *
+Note: `scp` is similar to `cp`, is something like *a copy through the network*.
 Let's see an example:
 
 ![example](imgannex2/example.jpg)

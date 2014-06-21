@@ -57,6 +57,7 @@
 |history	|keeps an ordered list of all the commands|
 |^R|	 recursive search|
 |ps	|list current processes|
+|bc |calculator|
 |make| compile the package|
 |make check|  run any self-tests that come with the package|
 |make install|  install the programs and any data files and documentation|

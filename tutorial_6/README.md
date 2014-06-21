@@ -139,6 +139,28 @@ If you want to turn off a Linux machine, type:
 ```
 shutdown -h now
 ```
+#### bc
+
+ The command `bc` open an arbitrary precision calculator language. To use it type:
+ ```
+ bc
+ (a text should appear on yout screen)
+ 7*2
+ (the result should be 14)
+ quit (you get out of the calculator)
+ ```
+ Another possibility of evaluating this is typing:
+ ```
+ echo '7*2' | bc -l
+ ```
+
+ Also, it can evaluate expressions like `exp1 < exp2 `
+returning a 1 if it is true and a 0 if it is false.
+For furtherinformation type:
+```
+man bc
+```
+
 
 
 ####Summary
@@ -155,5 +177,6 @@ shutdown -h now
 |history	|keeps an ordered list of all the commands|
 |^R|	 recursive search|
 |ps	|list current processes|
+|bc | calculator|
 
 

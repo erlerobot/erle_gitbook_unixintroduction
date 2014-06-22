@@ -60,9 +60,9 @@ First create a download directory
 ```
  mkdir download
  ```
- [Download the software here](https://github.com/silvianunez/erle_gitbook_unixintroduction/blob/master/turorial_7/prog/units-1.74.tar.gz) and save it to your new download directory.
+ [Download the software here](https://github.com/silvianunez/erle_gitbook_unixintroduction/tree/master/tutorial_7/prog) and save it to your new download directory.
 
-Now move it to *Erle*.You need to follow the process specified in annex: [A new Erle terminal](erle_gitbook_unixintroduction/annex_ii_a_new_erle_terminal/READMe.md)
+Now move it to *Erle*.You need to follow the process specified in annex: [A new Erle terminal](../annex_iii_a_new_erle_terminal/README.md)
 
 ```
 cd download

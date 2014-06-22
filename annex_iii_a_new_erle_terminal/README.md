@@ -68,6 +68,7 @@ In our case:
 ```
 ssh root@11.0.0.1
 ```
+
 ####II.3 Transferring files from your computer to Erle
 
 Once you have your computer and erle connected, for transferring a file from your pc to erle's home, type:

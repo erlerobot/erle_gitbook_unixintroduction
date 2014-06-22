@@ -56,7 +56,7 @@ The `./` will be necessary if the directory where the file is don't figure in th
 
 ####The internal proccess
 
-The shell look the first characters of the file(initial bytes). If it is a binary file the execution is done in the actual shell, if not a sub-shell is opened to run the proccess.
+The shell looks the first characters of the file(initial bytes). If it is a binary file the execution is done in the actual shell, if not a sub-shell is opened to run the proccess.
 If you want to force the actual shell to run the program, type:
 ```
 . ./file1
@@ -73,8 +73,8 @@ If you want to force the actual shell to run the program, type:
 |$#|number of parameters|
 |$*|value of all concatened parameters|
 
-For understanding better the table above, let's do a imply exercise.
-Create a file caller *parameters*.And edit it(we recommend you using `vi parameters`) with the following content:
+For understanding better the table above, let's do a simply exercise.
+Create a file called *parameters*.And edit it(we recommend you using `vi parameters`) with the following content:
 ```
 echo 'param. number=' $#
 echo '$0=' $0

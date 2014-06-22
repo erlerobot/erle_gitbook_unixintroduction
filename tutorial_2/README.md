@@ -171,7 +171,9 @@ Clear the screen and type
  ```
 
 *Q. How can you view the last 15 lines of the file?*
-
+```
+tail -15 science.txt
+```
 
 
 ####2.6 Searching the contents of a file

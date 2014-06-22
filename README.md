@@ -5,8 +5,11 @@
 ---
 ##Book
 
-This book pretend to be a introduction to **Unix** and to the use of the command line. Throught this tutorial you will learn to use the shell for managing files and directories (copy, move, remove), for changing the permissions of a file, for installing programms...
-All this with examples of the command line when working with **Erle**,  **a small-size Linux computer for making drones.**
+This book presents an introduction to **Unix/Linux systems** using [Erle board](http://erlerobot.com/). **Erle** is **a small-size Linux computer for making drones.**
+
+Throught this tutorial you will learn to use the shell for managing files and directories (copy, move, remove), for changing the permissions of a file, for installing programms... Also you will learns a bit about *vi text editor* and about *shell script*.
+
+
 
 ![erlelogo](erleimg/erlelogo2.png)
 

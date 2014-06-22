@@ -2,12 +2,12 @@
 ---
 ####[Introduction to the UNIX Operating System](../introduction_to_the_unix_operating_system/README.md)
 
-- 0.1 What is UNIX?
-- 0.2 Types of Unix
-- 0.3 The UNIX operating system
-- 0.4 Files and processes
-- 0.5 The Directory Structure
-- 0.6 Starting an UNIX terminal
+- 0.1 [What is UNIX?](../introduction_to_the_unix_operating_system/whatunix.md)
+- 0.2 [Types of Unix](../introduction_to_the_unix_operating_system/typeunix.md)
+- 0.3 [The UNIX operating system](../introduction_to_the_unix_operating_system/opsystem.md)
+- 0.4 [Files and processes](../introduction_to_the_unix_operating_system/fileproc.md)
+- 0.5 [The Directory Structure](../introduction_to_the_unix_operating_system/dirsturc.md)
+- 0.6 [Starting an UNIX terminal](../introduction_to_the_unix_operating_system/startunix.md)
 
 ####[Tutorial One ](../tutorial_1/README.md)
 

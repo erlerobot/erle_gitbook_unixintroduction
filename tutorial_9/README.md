@@ -76,7 +76,7 @@ You get to ex mode from the command mode by typing *:*.
 
 
 
-#### Practical introduction to *vim*
+#### 9.3 Practical introduction to *vim*
 
 We are going to familiarize with the *vim* text editor by doing some practical examples.For now on, we are *working with erlerobot*.
 

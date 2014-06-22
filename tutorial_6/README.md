@@ -131,7 +131,7 @@ set history=100
 ```
 By using the *navigation keys* on your keyboard (up, down) you can recall the previous commands.
 
-You can also use the recursive search. If you type ^R ([control +R]) and afterward the letter c, the shell shows you the previus commands beginning with c.
+You can also use the *recursive search*. If you type `^R` ([control +R]) and afterward the letter c, the shell shows you the previus commands beginning with c.
 
 ##### Shutdown
 

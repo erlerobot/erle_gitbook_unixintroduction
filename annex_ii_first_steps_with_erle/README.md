@@ -1,7 +1,7 @@
 # Annex II: First steps with Erle
 ---
 
-In this annex you can find an explanation of how to stablish a serial connection (using a mini usb cable) and access *Erle* from your terinal.
+In this annex you can find an explanation of how to stablish a **serial connection** (using a mini-usb cable) and access *Erle* from your terinal.
 Taking into account you should be able to follow the steps below without having any previus knowledge of Linux, very  basical exlanations are given.
 
 First open a terminal and type:

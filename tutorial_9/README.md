@@ -46,8 +46,8 @@ You get to command mode from the *entry mode* ("writing mode") by typing *Esc*.
 |M| central line|
 |i | text entry - inserting|
 |R| text entry - replacing |
-|u| undu last modification|
-|^R| undu the las *u* command|
+|u| undo last modification|
+|^R| undo the las *u* command|
 |/ |Search a characters string|
 |dd| remove a line|
 |yy| save lines in the buffer|

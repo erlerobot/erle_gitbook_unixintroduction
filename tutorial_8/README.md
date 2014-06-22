@@ -172,7 +172,7 @@ To add this path PERMANENTLY, add the following line to your *.cshrc* AFTER the 
 ```
 set path = ($path ~/units174/bin)
 ```
-####Sumary
+####Summary
 
 ######ENVIRONMENT variables
 

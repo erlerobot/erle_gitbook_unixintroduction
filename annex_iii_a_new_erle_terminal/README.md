@@ -28,7 +28,7 @@ You get this in the screen:
 ![en4](imgannex3/en4.jpg)
 
 
-Usually *en0* and *en1* correspond to internet connection, *bridge* is usually matter of a virtual machine... We now care about *en4*, which is related to erle (you can check that  the status is active when erle is connected and that *en4* disappear when you disconect erle).
+Usually *en0* and *en1* correspond to internet connection, *bridge* is usually matter of a virtual machine... We now care about *en4*, which is related to erle (you can check that  the status is active when erle is connected and that *en4* disappears when you disconect erle).
 
 Now open a erle-terminal and type:
 ```

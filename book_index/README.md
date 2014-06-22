@@ -17,7 +17,7 @@
 - 1.3 [Changing to a different Directory](../tutorial1/changedir.md)
 - 1.4 [The directories . and ..](../tutorial1/dirpoint.md)
 - 1.5 [Pathnames](../tutorial1/path.md)
-- 21.6 [More about home directories and pathnames](../tutorial1/more.md)
+- 1.6 [More about home directories and pathnames](../tutorial1/more.md)
 
 ####[Tutorial Two](../tutorial_2/README.md)
 
@@ -81,9 +81,9 @@
 
 ####[Tutorial Ten](../tutorial_10/README.md)
 
-- 10.1[Introduction to shell script](../tutorial_10/introscrpti.md)
-- 10.2[ Create and execute a script](../tutorial_10/creexe.md)
-- 10.3[Passing parameters to the shell](../tutorial_10/parameters.md)
+- 10.1 [Introduction to shell script](../tutorial_10/introscrpti.md)
+- 10.2 [ Create and execute a script](../tutorial_10/creexe.md)
+- 10.3 [Passing parameters to the shell](../tutorial_10/parameters.md)
 
 
 #### [Annex I: basic commands](../annex_i_basic_commands/README.md)

@@ -1,4 +1,4 @@
-# Annex III: A new erle terminal
+# Annex III: A new Erle terminal
 ---
 
 Sometimes, when you are working with *Erle* is more confortable having more than one terminal.

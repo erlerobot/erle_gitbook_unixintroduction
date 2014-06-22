@@ -15,7 +15,7 @@ ls /dev
 ```
 Whenever you connet a device to your computer, that device appears in this list.Here is erle:
 
-![dev](imgannex2/dev.jpg)
+![dev](imgannex3/dev.jpg)
 
 This is only a verification of erle conectivity.
 
@@ -25,7 +25,7 @@ ifconfig
 ```
 You get this in the screen:
 
-![en4](imgannex2/en4.jpg)
+![en4](imgannex3/en4.jpg)
 
 
 Usually *en0* and *en1* correspond to internet connection, *bridge* is usually matter of a virtual machine... We now care about *en4*, which is related to erle (you can check that  the status is active when erle is connected and that *en4* disappear when you disconect erle).
@@ -36,7 +36,7 @@ ifconfig
 ```
 You get this:
 
-![usb0](imgannex2/usb.jpg)
+![usb0](imgannex3/usb.jpg)
 
 There you can read in the *usb0* section the *erle conection id*:
 ```
@@ -54,7 +54,7 @@ ping 11.0.0.1 (erle id)
 ```
 The result should be something like this:
 
-![ping](imgannex2/ping.jpg)
+![ping](imgannex3/ping.jpg)
 
 #### II.2 A new Erle-terminal
 
@@ -82,4 +82,4 @@ Remember:
 Note: `scp` is similar to `cp`, is something like *a copy through the network*.
 Let's see an example:
 
-![example](imgannex2/example.jpg)
+![example](imgannex3/example.jpg)

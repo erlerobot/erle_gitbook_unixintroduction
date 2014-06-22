@@ -79,6 +79,13 @@
 - 9.2 [Essential commands](../tutorial_9/esscom.md)
 - 9.3 [Practical introduction to *vim*](../tutorial_9/pracvi.md)
 
+####[Tutorial Ten](../tutorial_10/README.md)
+
+- 10.1[Introduction to shell script](../tutorial_10/introscrpti.md)
+- 10.2[ Create and execute a script](../tutorial_10/creexe.md)
+- 10.3[Passing parameters to the shell](../tutorial_10/parameters.md)
+
+
 #### [Annex I: basic commands](../annex_i_basic_commands/README.md)
 
 ####[Annex II: First steps with Erle](../annex_ii_first_steps_with_erle/README.md)

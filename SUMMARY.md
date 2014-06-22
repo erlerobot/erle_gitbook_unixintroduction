@@ -11,6 +11,6 @@
 * [Tutorial 7](tutorial_7/README)
 * [Tutorial 8](tutorial_8/README.md)
 * [Tutorial 9](tutorial_9/README.md)
-* [Annex II: basic commands](annex_i_basic_commands/README.md)
-* [Annex III: A new Erle terminal](annex_ii_a_new_erle_terminal/README.md)
+* [Annex I: basic commands](annex_i_basic_commands/README.md)
+* [Annex III: A new erle terminal](annex_iii_a_new_erle_terminal/README.md)
 

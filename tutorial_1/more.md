@@ -1,4 +1,4 @@
-####1.6 More about home directories and pathnames
+#### More about home directories and pathnames
 
 Understanding pathnames
 

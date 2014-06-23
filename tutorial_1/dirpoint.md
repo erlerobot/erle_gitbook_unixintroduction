@@ -1,4 +1,4 @@
-####1.4 The directories . and ..
+####The directories . and ..
 
 Still in the unixstuff directory, type
 

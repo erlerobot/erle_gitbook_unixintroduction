@@ -1,5 +1,5 @@
 
-####1.3 Change to a different directory
+#### Change to a different directory
 
 `cd `(change directory)
 

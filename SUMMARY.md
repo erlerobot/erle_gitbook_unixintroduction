@@ -42,6 +42,8 @@
    * [Killing a process](tutorial_5/killproc.md)
    * [Summary](tutorial_5/summary.md)
 * [Tutorial Six](tutorial_6/README.md)
+   * [Other useful Unix commands](tutorial_6/other_useful_unix_commands.md)
+   * [Summary](tutorial_6/summary.md)
 * [Tutorial Seven](tutorial_7/README.md)
    * [Compiling UNIX software packages](tutorial_7/compil.md)
    * [Download source code](tutorial_7/download.md)

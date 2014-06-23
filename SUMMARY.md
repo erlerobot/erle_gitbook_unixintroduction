@@ -40,6 +40,7 @@
    * [Processes and Jobs](tutorial_5/procc.md)
    * [Listing suspended and background processes](tutorial_5/susproc.md)
    * [Killing a process](tutorial_5/killproc.md)
+   * [Summary](tutorial_5/summary.md)
 * [Tutorial Six](tutorial_6/README.md)
 * [Tutorial Seven](tutorial_7/README.md)
    * [Compiling UNIX software packages](tutorial_7/compil.md)

@@ -1,5 +1,5 @@
 
-#### 5.4 Listing suspended and background processes
+####Listing suspended and background processes
 
 When a process is running, backgrounded or suspended, it will be entered onto a list along with a job number. To examine this list, type
 

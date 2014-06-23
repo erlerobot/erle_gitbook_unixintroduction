@@ -22,6 +22,7 @@
    * [Removing Files and directories](tutorial_2/remove.md)
    * [Displaying the contents of a file on the screen](tutorial_2/content.md)
    * [Searching the contents of a file](tutorial_2/searchfile.md)
+   * [Summary](tutorial_2/summary.md)
 * [Tutorial Three](tutorial_3/README.md)
    * [Redirection](tutorial_3/redirect.md)
    * [Redirecting the Output](tutorial_3/rein.md)

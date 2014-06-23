@@ -1,5 +1,5 @@
 
-####2.6 Searching the contents of a file
+#### Searching the contents of a file
 
 Simple searching using `less`
 

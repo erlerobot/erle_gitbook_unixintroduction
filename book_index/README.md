@@ -93,7 +93,7 @@
 
 ####[Annex III: Network connection with Erle](../annex_iii_network_connection_with_erle/README.md)
 
-- II.1 [Connecting with Erle](../annex_iii_network_connection_with_erle/connecting_with_erle.md.md)
-- II.2 [A new Erle-terminal](../annex_iii_network_connection_with_erle/a_new_erle-terminal.md)
-- II.3 [Transferring files from your computer to Erle](../annex_iii_network_connection_with_erle/transferring_files_form_your_computer_to_erle.md)
+- [Connecting with Erle](../annex_iii_network_connection_with_erle/connecting_with_erle.md)
+- [A new Erle-terminal](../annex_iii_network_connection_with_erle/a_new_erle-terminal.md)
+- [Transferring files from your computer to Erle](../annex_iii_network_connection_with_erle/transferring_files_form_your_computer_to_erle.md)
 

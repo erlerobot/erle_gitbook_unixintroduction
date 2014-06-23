@@ -1,5 +1,5 @@
 
-####0.6 Starting an UNIX terminal
+#### Starting an UNIX terminal
 
 To open an UNIX terminal window, click on the "Terminal" icon from Applications/Accessories menus.
 ![terminal](img/gnome-window.gif)

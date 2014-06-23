@@ -1,5 +1,5 @@
 
-####8.2 Environment Variables
+## Environment Variables
 
 An example of an environment variable is the OSTYPE variable. The value of this is the current operating system you are using. Type
 

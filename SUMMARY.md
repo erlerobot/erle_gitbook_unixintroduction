@@ -60,6 +60,7 @@
    * [Using and setting variables](tutorial_8/usevar.md)
    * [Setting shell variables in the .cshrc file](tutorial_8/setvar.md)
    * [Setting the path](tutorial_8/setpath.md)
+   * [Summary](tutorial_8/summary.md)
 * [Tutorial Nine](tutorial_9/README.md)
    * [What is *vi*?](tutorial_9/whatisvi.md)
    * [Essential commands](tutorial_9/esscom.md)

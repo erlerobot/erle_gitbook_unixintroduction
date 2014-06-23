@@ -1,5 +1,5 @@
 
-####8.3 Shell Variables
+##Shell Variables
 
 An example of a shell variable is the history variable. The value of this is how many shell commands to save, allow the user to scroll back through all the commands they have previously entered. Type
 

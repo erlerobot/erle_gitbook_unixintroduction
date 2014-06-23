@@ -71,8 +71,8 @@
    * [Passing parameters to the shell](tutorial_10/parameters.md)
 * [Annex I: basic commands](annex_i_basic_commands/README.md)
 * [Annex II: First steps with Erle](annex_ii_first_steps_with_erle/README.md)
-* [Annex III:A new Erle terminal](annex_iii_a_new_erle_terminal/README.md)
-   * [Connecting with Erle](annex_iii_a_new_erle_terminal/conerle.md)
-   * [A new Erle-terminal](annex_iii_a_new_erle_terminal/terminal.md)
-   * [Transferring files from your computer to Erle](annex_iii_a_new_erle_terminal/transferfile.md)
+* [Annex III: Network connection with Erle](annex_iii_network_connection_with_erle/README.md)
+   * [Connecting with Erle](annex_iii_network_connection_with_erle/connecting_with_erle.md)
+   * [A new Erle-terminal](annex_iii_network_connection_with_erle/a_new_erle-terminal.md)
+   * [Transferring files form your computer to Erle](annex_iii_network_connection_with_erle/transferring_files_form_your_computer_to_erle.md)
 

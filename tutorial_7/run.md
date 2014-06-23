@@ -1,5 +1,5 @@
 
-####7.6 Running the software
+## Running the software
 
 You are now ready to run the software (assuming everything worked).
 

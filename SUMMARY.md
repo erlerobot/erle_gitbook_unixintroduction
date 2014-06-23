@@ -52,6 +52,7 @@
    * [Building the package](tutorial_7/building.md)
    * [Running the software](tutorial_7/run.md)
    * [Stripping unnecessary code](tutorial_7/strip.md)
+   * [Summary](tutorial_7/summary.md)
 * [Tutorial Eight](tutorial_8/README.md)
    * [UNIX variables](tutorial_8/var.md)
    * [Environment variables](tutorial_8/envirvar.md)

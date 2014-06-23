@@ -1,4 +1,4 @@
-####7.1 Compiling UNIX software packages
+## Compiling UNIX software packages
 
 We have many public domain and commercial software packages installed on our systems, which are available to all users. However, you can download and install other software packages in your computer.
 

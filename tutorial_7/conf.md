@@ -1,4 +1,4 @@
-####7.4 Configuring and creating the Makefile
+## Configuring and creating the Makefile
 
 The first thing to do is carefully read the *README* and *INSTALL* text files (use the less command). These contain important information on how to compile and run the software.
 

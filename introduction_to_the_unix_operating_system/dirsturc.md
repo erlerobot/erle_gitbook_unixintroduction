@@ -1,4 +1,4 @@
-# The Directory Structure
+## The Directory Structure
 
 
 All the files are grouped together in the directory structure. The file-system is arranged in a hierarchical structure, like an inverted tree. The top of the hierarchy is traditionally called root (written as a slash / ) structure.

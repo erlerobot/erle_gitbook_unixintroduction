@@ -16,7 +16,6 @@
    * [More about home directories and pathnames](tutorial_1/more.md)
    * [Summary](tutorial_1/summary.md)
 * [Tutorial Two](tutorial_2/README.md)
-   * [Creating files](tutorialcreatefile.md)
    * [Copying Files](tutorial_2/copyfile.md)
    * [Moving Files](tutorial_2/movefile.md)
    * [Removing Files and directories](tutorial_2/remove.md)

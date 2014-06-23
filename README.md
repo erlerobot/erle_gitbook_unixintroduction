@@ -1,8 +1,8 @@
 
 # Erle Robotics Unix Introduction Gitbook
 
+[![Build Status](https://www.gitbook.io/button/status/book/erlerobotics/erle_gitbook_unixintroduction)](https://www.gitbook.io/book/erlerobotics/erle_gitbook_unixintroduction/activity)
 
----
 ##Book
 
 This book presents an introduction to **Unix/Linux systems** using [Erle board](http://erlerobot.com/). **Erle** is **a small-size Linux computer for making drones.**

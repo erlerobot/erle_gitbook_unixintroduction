@@ -1,5 +1,5 @@
 
-#### Changing access rights
+## Changing access rights
 
 `chmod` (changing a file mode)
 

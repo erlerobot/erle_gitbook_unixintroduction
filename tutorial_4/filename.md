@@ -1,6 +1,6 @@
 
 
-#### Filename conventions
+## Filename conventions
 
 We should note here that a directory is merely a special type of file. So the rules and conventions for naming files apply also to directories.
 

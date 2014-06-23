@@ -33,6 +33,7 @@
    * [Wildcards](tutorial_4/wild.md)
    * [Filename Conventions](tutorial_4/filename.md)
    * [Getting Help](tutorial_4/help.md)
+   * [Summary](tutorial_4/summary.md)
 * [Tutorial Five](tutorial_5/README.md)
    * [File system security (access rights)](tutorial_5/security.md)
    * [Changing access rights](tutorial_5/changeacc.md)

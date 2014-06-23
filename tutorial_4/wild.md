@@ -1,4 +1,4 @@
-####4.1 Wildcards
+#### Wildcards
 
 #####The * wildcard
 

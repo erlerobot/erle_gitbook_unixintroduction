@@ -1,5 +1,5 @@
 
-#### Redirecting the Input
+## Redirecting the Input
 
 We use the < symbol to redirect the input of a command.
 

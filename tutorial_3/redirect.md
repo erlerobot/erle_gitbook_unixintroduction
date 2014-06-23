@@ -1,5 +1,5 @@
 
-#### Redirection
+## Redirection
 
 Most processes initiated by UNIX commands write to the standard output (that is, they write to the terminal screen), and many take their input from the standard input (that is, they read it from the keyboard). There is also the standard error, where processes write their error messages, by default, to the terminal screen.
 

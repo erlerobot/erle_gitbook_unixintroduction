@@ -1,6 +1,6 @@
 
 
-#### Redirecting the Output
+## Redirecting the Output
 
 We use the > symbol to redirect the output of a command. For ex####3.1 Redirection
 

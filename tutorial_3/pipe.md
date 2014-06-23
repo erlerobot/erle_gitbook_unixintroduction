@@ -1,5 +1,5 @@
 
-#### Pipes
+## Pipes
 
 To see who is on the system with you, type
 

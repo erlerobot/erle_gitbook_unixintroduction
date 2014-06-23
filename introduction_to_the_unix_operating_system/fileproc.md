@@ -1,4 +1,4 @@
-####0.4 Files and processes
+## Files and processes
 
 Everything in UNIX is either a file or a process.
 

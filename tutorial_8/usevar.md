@@ -1,5 +1,5 @@
 
-####8.4 Using and setting variables
+## Using and setting variables
 
 Each time you login to a UNIX host, the system looks in your home directory for initialisation files. Information in these files is used to set up your working environment. The C and TC shells uses two files called *.login* and *.cshrc* (note that both file names begin with a dot).
 

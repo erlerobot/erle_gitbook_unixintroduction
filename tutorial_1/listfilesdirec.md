@@ -1,4 +1,4 @@
-####1.1 Listing files and directories
+## Listing files and directories
 
 `ls` (list)
 

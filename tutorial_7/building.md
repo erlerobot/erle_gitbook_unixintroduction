@@ -1,5 +1,5 @@
 
-####7.5 Building the package
+## Building the package
 
 Now you can go ahead and build the package by running the make command.
 

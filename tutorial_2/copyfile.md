@@ -1,4 +1,4 @@
-####2.2 Copying Files
+## Copying Files
 
 `cp` *file1 file2* is the command which makes a copy of *file1* in the current working directory and calls it *file2*
 

@@ -1,5 +1,5 @@
 
-####8.6 Setting the path
+## Setting the path
 
 When you type a command, your path (or PATH) variable defines in which directories the shell will look to find the command you typed. If the system returns a message saying "command: Command not found", this indicates that either the command doesn't exist at all on the system or it is simply not in your path.
 

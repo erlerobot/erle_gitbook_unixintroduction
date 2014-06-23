@@ -1,4 +1,6 @@
-####0.3 The UNIX operating system
+## The UNIX operating system
+
+
 
 The UNIX operating system is made up of three parts; the kernel, the shell and the programs.
 

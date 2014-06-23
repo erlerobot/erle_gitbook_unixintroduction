@@ -1,6 +1,6 @@
 
 
-####2.3 Moving files
+## Moving files
 
 `mv` (move)
 

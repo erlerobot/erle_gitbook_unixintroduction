@@ -1,4 +1,4 @@
-####7.3 Extracting the source code
+## Extracting the source code
 
 Now, in your home-erle-directory, where you have saved the file, type:
 

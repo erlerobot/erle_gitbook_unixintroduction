@@ -1,4 +1,4 @@
-#### 9.1 What is *vi* ?
+##  What is *vi* ?
 
 *vi* is a screen-oriented text editor originally created for the Unix  operating system.
 *vi* was designed for editing standard format file and nowadays can be use in a wide variety of sistems and terminals. One of the strong points of *vi* is its adaptability.

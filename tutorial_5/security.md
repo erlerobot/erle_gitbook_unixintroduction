@@ -1,5 +1,5 @@
 
-####5.1 File system security (access rights)
+##File system security (access rights)
 
 In your unixstuff directory, type
 

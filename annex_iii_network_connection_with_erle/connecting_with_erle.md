@@ -1,4 +1,5 @@
-####II.1 Connecting with Erle
+## Connecting with Erle
+
 
 Connet Erle to your computer, using the USB wire.
 
@@ -48,3 +49,4 @@ ping 11.0.0.1 (erle id)
 The result should be something like this:
 
 ![ping](imgannex3/ping.jpg)
+

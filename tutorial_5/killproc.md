@@ -1,5 +1,5 @@
 
-####5.5 Killing a process
+## Killing a process
 
 `kill` (terminate or signal a process)
 

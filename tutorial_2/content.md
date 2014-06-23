@@ -1,5 +1,5 @@
 
-####2.5 Displaying the contents of a file on the screen*
+## Displaying the contents of a file on the screen*
 
 #####clear (clear screen)
 

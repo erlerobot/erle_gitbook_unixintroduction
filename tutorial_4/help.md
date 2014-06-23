@@ -1,5 +1,5 @@
 
-####4.3 Getting Help
+## Getting Help
 
 #####On-line Manuals
 

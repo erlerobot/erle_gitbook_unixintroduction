@@ -1,5 +1,5 @@
 
-####7.7 Stripping unnecessary code
+## Stripping unnecessary code
 
 When a piece of software is being developed, it is useful for the programmer to include debugging information into the resulting executable. This way, if there are problems encountered when running the executable, the programmer can load the executable into a debugging software package and track down any software bugs.
 

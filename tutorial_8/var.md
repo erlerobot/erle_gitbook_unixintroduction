@@ -1,4 +1,4 @@
-####8.1 UNIX Variables
+## UNIX Variables
 
 Variables are a way of passing information from the shell to programs when you run them. Programs look "in the environment" for particular variables and if they are found will use the values stored. Some are set by the system, others by you, yet others by the shell, or any program that loads another program.
 

@@ -1,5 +1,5 @@
 
-####2.4 Removing files and directories
+## Removing files and directories
 
 `rm` (remove), `rmdir` (remove directory)
 

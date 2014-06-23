@@ -1,5 +1,4 @@
-
-####II.3 Transferring files from your computer to Erle
+## Transferring files form your computer to Erle
 
 Once you have your computer and erle connected, for transferring a file from your pc to erle's home, type:
 ```

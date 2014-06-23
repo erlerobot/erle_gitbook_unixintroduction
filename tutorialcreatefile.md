@@ -1,5 +1,5 @@
-# Creating files
----
+## Creating files
+
 For the next explanations and exercises, we will assume that science.txt is a txt file with the following text on it:
 >The Electronic Telegraph  Thursday 28 September 1995  Science
 This summer the Royal Observatory at Herstmonceux

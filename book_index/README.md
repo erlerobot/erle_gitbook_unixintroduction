@@ -21,7 +21,7 @@
 
 ####[Tutorial Two](../tutorial_2/README.md)
 
-- [Creating files](../tutorial_2/createfile.md)
+- [Creating files](../tutorial_2/creating_files.md)
 - [Copying Files](../tutorial_2/copyfile.md)
 - [Moving Files](../tutorial_2/movefile.md)
 - [Removing Files and directories](../tutorial_2/remove.md)
@@ -91,9 +91,9 @@
 ####[Annex II: First steps with Erle](../annex_ii_first_steps_with_erle/README.md)
 
 
-####[Annex III:A new Erle terminal](../annex_iii_a_new_erle_terminal/README.md)
+####[Annex III: Network connection with Erle](../annex_iii_network_connection_with_erle/README.md)
 
-- II.1 [Connecting with Erle](../annex_iii_a_new_erle_terminal/conerle.md)
-- II.2 [A new Erle-terminal](../annex_iii_a_new_erle_terminal/terminal.md)
-- II.3 [Transferring files from your computer to Erle](../annex_iii_a_new_erle_terminal/transferfile.md)
+- II.1 [Connecting with Erle](../annex_iii_network_connection_with_erle/connecting_with_erle.md.md)
+- II.2 [A new Erle-terminal](../annex_iii_network_connection_with_erle/a_new_erle-terminal.md)
+- II.3 [Transferring files from your computer to Erle](../annex_iii_network_connection_with_erle/transferring_files_form_your_computer_to_erle.md)
 

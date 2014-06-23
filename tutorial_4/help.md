@@ -1,5 +1,5 @@
 
-#### Getting Help
+## Getting Help
 
 #####On-line Manuals
 

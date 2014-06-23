@@ -1,5 +1,5 @@
 
-#### Pathnames
+## Pathnames
 
 `pwd `(print working directory)
 

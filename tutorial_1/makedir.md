@@ -1,4 +1,4 @@
-#### Making Directories
+## Making Directories
 
 `mkdir `(make directory)
 

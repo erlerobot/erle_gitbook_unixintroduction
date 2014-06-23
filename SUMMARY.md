@@ -14,6 +14,7 @@
    * [The directories . and ..](tutorial_1/dirpoint.md)
    * [Pathnames](tutorial_1/path.md)
    * [More about home directories and pathnames](tutorial_1/more.md)
+   * [Summary](tutorial_1/summary.md)
 * [Tutorial Two](tutorial_2/README.md)
    * [Creating files](tutorialcreatefile.md)
    * [Copying Files](tutorial_2/copyfile.md)

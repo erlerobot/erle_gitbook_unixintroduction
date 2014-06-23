@@ -1,4 +1,4 @@
-####10.2 Create and execute a script
+## Create and execute a script
 
 We are going to create a little program that show us the date and the hour.
 After going to `/tmp` directory and we use the command `banner` to write the date in big letters.Type:

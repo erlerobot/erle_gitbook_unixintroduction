@@ -1,4 +1,4 @@
-####10.3 Passing parameters to the shell
+## Passing parameters to the shell
 
 
 | **Parameter** | **Meaning** |

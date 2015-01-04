@@ -5,7 +5,7 @@
 
 ##Book
 
-This book presents an introduction to **Unix/Linux systems** using [Erle-brain](http://erlerobotics.com). **Erle** is **a small-size Linux computer for making drones.**
+This book presents an introduction to **Unix/Linux systems** using [Erle-brain](http://erlerobotics.com). **Erle-brain** is **a small-size Linux computer for making drones.**
 
 Throught this tutorial you will learn to use the shell for managing files and directories (copy, move, remove), for changing the permissions of a file, for installing programms... Also you will learns a bit about *vi text editor* and about *shell script*.
 
